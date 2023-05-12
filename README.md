@@ -1,5 +1,4 @@
-# Text-Editor-86-Assembly-Language
-# Text Editor in Assembly with GUI
+# Text-Editor-x86-Assembly-Language
 
 This repository contains a text editor implemented in assembly language, with a graphical user interface (GUI), file handling capabilities, and support for keyboard shortcuts. The project is written in x86 assembly using the FASM (Flat Assembler) syntax.
 
